@@ -1,0 +1,16 @@
+{
+  "test": {
+    "testDuration": "30",
+    "personGenerationTime": "3"
+  },
+  "building": {
+    "numberFloors": "20",
+    "numberElevators": "4"
+  },
+  "elevator": {
+    "maxPersonPerElevator": "10",
+    "timePerFloor": "1",
+    "doorOpenTime": "2",
+    "timeOut": "10"
+  }
+}
