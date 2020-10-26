@@ -1,3 +1,5 @@
-# elevatorSimulator/n
-A simulation algorithm for an elevator/n
-GUI code provided by Prof. Christopher Hield/n
+# Elevator Simulator
+
+A simulation algorithm for an elevator
+
+GUI code provided by Prof. Christopher Hield
